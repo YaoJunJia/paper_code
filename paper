@@ -1,7 +1,0 @@
-echo "#paper_code" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/YaoJunJia/paper_code.git
- git push -你起源主要
